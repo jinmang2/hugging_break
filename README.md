@@ -1,2 +1,1 @@
-# hugging_break
-허깅페이스 뽀개깅
+# https://github.com/jinmang2/hugging_break/wiki
